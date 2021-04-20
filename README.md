@@ -1,7 +1,9 @@
 ### TestAccount380
-## Creator, Entrepeneur, Philantropist
+#### Maker, Entrepeneur, Philantropist
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/jack?label=People%20following%20me%20on%20twitter&style=social)
+
+I specialize in nothing.
 <!--
 **TestAccount380/TestAccount380** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
