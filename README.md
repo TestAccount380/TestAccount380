@@ -1,4 +1,3 @@
-# Hi,
 I'm a software developer and DevOps engineer.
 * 🖥️ Getting back into IT
 * ☕ Learning java
